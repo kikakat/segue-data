@@ -1,0 +1,59 @@
+{
+  "generated": "2026-11-15T21:31:19Z",
+  "cats": [
+    {
+      "cat": "books",
+      "label": "Books",
+      "count": 5000,
+      "version": 1794777219,
+      "generated": "2026-11-15T21:13:39+00:00",
+      "source": "Open Library",
+      "credit": "Book data and covers from Open Library. Award lists from Wikidata."
+    },
+    {
+      "cat": "manga",
+      "label": "Manga",
+      "count": 2759,
+      "version": 1794777377,
+      "generated": "2026-11-15T21:16:17+00:00",
+      "source": "AniList",
+      "credit": "Manga data from AniList."
+    },
+    {
+      "cat": "tv",
+      "label": "TV shows",
+      "count": 1915,
+      "version": 1794777390,
+      "generated": "2026-11-15T21:16:30+00:00",
+      "source": "TMDB",
+      "credit": "This product uses the TMDB API but is not endorsed or certified by TMDB. Streaming data from JustWatch."
+    },
+    {
+      "cat": "movies",
+      "label": "Movies",
+      "count": 2550,
+      "version": 1794777413,
+      "generated": "2026-11-15T21:16:53+00:00",
+      "source": "TMDB",
+      "credit": "This product uses the TMDB API but is not endorsed or certified by TMDB. Streaming data from JustWatch."
+    },
+    {
+      "cat": "games",
+      "label": "Video games",
+      "count": 3500,
+      "version": 1794778091,
+      "generated": "2026-11-15T21:28:11+00:00",
+      "source": "IGDB",
+      "credit": "Game data from IGDB.com. Steam review scores from SteamSpy."
+    },
+    {
+      "cat": "music",
+      "label": "Music",
+      "count": 3000,
+      "version": 1794778268,
+      "generated": "2026-11-15T21:31:08+00:00",
+      "source": "ListenBrainz",
+      "credit": "Music data from ListenBrainz and MusicBrainz. Covers from the Cover Art Archive."
+    }
+  ]
+}
