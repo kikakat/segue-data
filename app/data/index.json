@@ -1,0 +1,59 @@
+{
+  "generated": "2026-11-21T19:59:40Z",
+  "cats": [
+    {
+      "cat": "books",
+      "label": "Books",
+      "count": 6500,
+      "version": 1795290527,
+      "generated": "2026-11-21T19:48:47+00:00",
+      "source": "Open Library",
+      "credit": "Book data and covers from Open Library. Award lists from Wikidata. Bestseller lists: data provided by The New York Times."
+    },
+    {
+      "cat": "manga",
+      "label": "Manga",
+      "count": 2767,
+      "version": 1795290532,
+      "generated": "2026-11-21T19:48:52+00:00",
+      "source": "AniList",
+      "credit": "Manga data from AniList."
+    },
+    {
+      "cat": "tv",
+      "label": "TV shows",
+      "count": 1949,
+      "version": 1795290544,
+      "generated": "2026-11-21T19:49:04+00:00",
+      "source": "TMDB",
+      "credit": "This product uses the TMDB API but is not endorsed or certified by TMDB. Streaming data from JustWatch."
+    },
+    {
+      "cat": "movies",
+      "label": "Movies",
+      "count": 2589,
+      "version": 1795290561,
+      "generated": "2026-11-21T19:49:21+00:00",
+      "source": "TMDB",
+      "credit": "This product uses the TMDB API but is not endorsed or certified by TMDB. Streaming data from JustWatch."
+    },
+    {
+      "cat": "games",
+      "label": "Video games",
+      "count": 3500,
+      "version": 1795290601,
+      "generated": "2026-11-21T19:50:01+00:00",
+      "source": "IGDB",
+      "credit": "Game data from IGDB.com. Steam review scores from SteamSpy, Spanish summaries from the Steam store, some age ratings from RAWG (rawg.io)."
+    },
+    {
+      "cat": "music",
+      "label": "Music",
+      "count": 3000,
+      "version": 1795291167,
+      "generated": "2026-11-21T19:59:27+00:00",
+      "source": "ListenBrainz",
+      "credit": "Music data from ListenBrainz and MusicBrainz. Covers from the Cover Art Archive and Deezer, lengths from Deezer, descriptions and tags from Last.fm, trending albums from Apple Music's charts."
+    }
+  ]
+}
