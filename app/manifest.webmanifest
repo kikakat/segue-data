@@ -1,0 +1,21 @@
+{
+  "name": "Segue",
+  "short_name": "Segue",
+  "description": "Finished something? Here's what's next. Picks across books, manga, shows, movies, games, board games and music.",
+  "id": "./",
+  "start_url": "./#discover",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F4FB",
+  "theme_color": "#6A55C8",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Up next", "url": "./#next"},
+    {"name": "Library", "url": "./#library"}
+  ]
+}
